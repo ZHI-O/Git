@@ -11,3 +11,5 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 
 I'm so happy to creat my first Git repository!
+
+Creat a new branch is quick.
