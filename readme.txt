@@ -13,3 +13,5 @@ Git tracks changes of files.
 I'm so happy to creat my first Git repository!
 
 Creat a new branch is quick AND simple.
+
+add merge
